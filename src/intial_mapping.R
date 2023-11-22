@@ -54,7 +54,6 @@ ggplot() +
   scale_fill_manual(values = rev(c("white", brewer.pal(8, "Blues"))), guide = "none") + 
   geom_polygon(data=coast, mapping=aes(x = longitude, y = latitude), color="black", fill="gray") + 
   coord_cartesian(ylim = c(31, 34.6), xlim = c(-122.0, -117.2))  + 
-  coord_fixed()+
   geom_polygon(data=dumpsite, mapping=aes(x = long, y = lat, group=group), color="black", alpha = 0.5) + 
   geom_point(data=station.loc %>% dplyr::filter(Sta < 90 & Line < 95), mapping=aes(x=Lon..dec., y=Lat..dec.))+
   xlab("")+ylab("") 
