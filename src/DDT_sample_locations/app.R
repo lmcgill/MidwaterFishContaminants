@@ -24,7 +24,7 @@ hydros <- readRDS("data/erdNOAAhydros.rds") %>%
 
   
 
-#setwd("/Users/lillianmcgill/Documents/RecFish_DDT/DDT_sample_locations")
+setwd("/Users/lillianmcgill/Documents/MidwaterFishContaminants/src/DDT_sample_locations")
 ui = bootstrapPage(
   navbarPage(theme = shinytheme("flatly"), collapsible = TRUE,
              HTML('<a style="text-decoration:none;cursor:default;color:#FFFFFF;" class="active" href="#">DDT+ Sample Explorer</a>'), id="nav",
