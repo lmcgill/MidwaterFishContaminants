@@ -23,8 +23,9 @@ hydros <- readRDS("data/erdNOAAhydros.rds") %>%
   dplyr::mutate(line.cruise = paste(line.station, cruise, sep=", ")) 
 
   
+#Station less than 76.7
 
-setwd("/Users/lillianmcgill/Documents/MidwaterFishContaminants/src/DDT_sample_locations")
+#setwd("/Users/lillianmcgill/Documents/RecFish_DDT/DDT_sample_locations")
 ui = bootstrapPage(
   navbarPage(theme = shinytheme("flatly"), collapsible = TRUE,
              HTML('<a style="text-decoration:none;cursor:default;color:#FFFFFF;" class="active" href="#">DDT+ Sample Explorer</a>'), id="nav",
@@ -38,11 +39,11 @@ ui = bootstrapPage(
                           tags$h1("Subset the data"),
                           tags$br(),
                           HTML(paste0("This map shows the number of years with at least one myctophid caught for a given year-site combination.
-                            Note that data ONLY goes to 1978 at present. Weight is determiend by indidivual length and a kind of crummy length-weight relationship from other CalCOFI data.")), 
+                            Weight is determiend by indidivual length and a kind of crummy length-weight relationship from other CalCOFI data.")), 
                           tags$br(),
                           tags$br(),
                           
-                          HTML(paste0("You can select either one or all of the most common species (Stenobrachius leucopsarus, Triphoturus mexicanus, and Nannobrachium ritteri)")),
+                          HTML(paste0("You can select one or both of the species of interest (Stenobrachius leucopsarus, Triphoturus mexicanus)")),
                           tags$br(),
                           tags$br(),
                           radioButtons(inputId = "plot_select", 
@@ -50,8 +51,7 @@ ui = bootstrapPage(
                                        choices = 
                                          c("All" = "both",
                                            "Stenobrachius leucopsarus" = "ste_leu", 
-                                           "Triphoturus mexicanus" = "tri_mex", 
-                                           "Nannobrachium ritteri" = "nan_rit")),
+                                           "Triphoturus mexicanus" = "tri_mex")),
                           tags$br(),
                           tags$br(),
                           
@@ -88,13 +88,14 @@ ui = bootstrapPage(
                       
              ),
              ),
-             tabPanel("Myctophid Seasonality", 
-                      span(tags$i(h6("This graph just shows the breakdown of how many myctophids are caught annually (across all sites) by net and month.")), style="color:#045a8d"),
-                      mainPanel(
-                        plotOutput("seasonal.plot")
-                        #verbatimTextOutput("text")
-                      ), 
-             ), 
+             # Can remove seasonality as it's not super important. Reaplce with "pool" visualizations.  
+             # tabPanel("Myctophid Seasonality", 
+             #          span(tags$i(h6("This graph just shows the breakdown of how many myctophids are caught annually (across all sites) by net and month.")), style="color:#045a8d"),
+             #          mainPanel(
+             #            plotOutput("seasonal.plot")
+             #            #verbatimTextOutput("text")
+             #          ), 
+             # ), 
              tabPanel("Temperature and Salinity", 
                       
                       sidebarLayout(
@@ -102,7 +103,7 @@ ui = bootstrapPage(
                           id = "sidebar",
                           tags$h1("Chose a site and cruise"),
                           tags$br(),
-                          HTML(paste0("This plot will show a temperature vs. salinity plot for two/ cruise combinations. Start typing the your desired 
+                          HTML(paste0("This plot will show a temperature vs. salinity plot for any cruise/station combinations. Start typing the your desired 
                                       combination in the format `Site, Cruise` and click it to select. All data is from CalCOFI hydro cast bottle data.")), 
                           tags$br(),
                           tags$br(),
@@ -144,30 +145,48 @@ server <- function(input, output, session) {
       
       req(input$plot_select)
       species = switch(input$plot_select, 
-                       both = c("Stenobrachius leucopsarus", "Triphoturus mexicanus", "Nannobrachium ritteri"), 
+                       both = c("Stenobrachius leucopsarus", "Triphoturus mexicanus"), 
                        ste_leu = c("Stenobrachius leucopsarus"), 
-                       tri_mex = c("Triphoturus mexicanus"), 
-                       nan_rit = c("Nannobrachium ritteri")) 
+                       tri_mex = c("Triphoturus mexicanus")) 
       
       size = input$minsize
       
-      data.calcofi = readRDS("data/juvenile_size_data.rds")  %>% 
+      data.calcofi = readRDS("data/juvenile_size_NEW.rds")  %>% 
         dplyr::filter(SpeciesName %in% species) %>% 
         dplyr::filter(Size >= size) %>% 
-        #dplyr::filter(SpeciesName %in% c("Stenobrachius leucopsarus")) %>% 
-        
-        dplyr::mutate(year = year(Datetime)) %>% 
-        dplyr::mutate(month = month(Datetime)) %>% 
-        group_by(line.station, year) %>% 
+        dplyr::filter(Size < 300) %>% 
+        group_by(line.station, Year) %>% 
         dplyr::mutate(T_JA_calcofi = sum(Count)) %>% 
         dplyr::mutate(weight_JA_calcofi = sum(weight)) %>% 
         dplyr::ungroup() %>% 
         group_by(line.station) %>% 
         dplyr::mutate(Lat = mean(Lat), 
                       Lon=mean(Lon)) %>%
-        dplyr::mutate(num_years_calcofi= length(unique(year))) %>% 
+        dplyr::mutate(num_years_calcofi= length(unique(Year))) %>% 
         dplyr::ungroup() 
       data.calcofi
+      
+    })
+    
+    data.counts <- reactive({
+      
+      req(input$plot_select)
+      species = switch(input$plot_select, 
+                       both = c("Stenobrachius leucopsarus", "Triphoturus mexicanus"), 
+                       ste_leu = c("Stenobrachius leucopsarus"), 
+                       tri_mex = c("Triphoturus mexicanus")) 
+      
+      size = input$minsize
+      
+      
+      data.counts = readRDS("data/juvenile_count_NEW.rds") %>%
+        dplyr::filter(SpeciesName %in% species) %>%
+        dplyr::mutate(line.station = paste(Line, Station, sep=" ")) %>% 
+        group_by(line.station, Year) %>%
+        dplyr::mutate(T_JA_calcofi = sum(Count)) %>%
+        dplyr::ungroup()
+      
+      data.counts
       
     })
 
@@ -223,43 +242,40 @@ server <- function(input, output, session) {
     #if(is.null(data_of_click$clickedMarker) == FALSE){site <- data_of_click$clickedMarker$id}
     site <- "90 35"
     if(is.null(data_of_click$clickedMarker) == FALSE){site <- data_of_click$clickedMarker$id}
-    
-    data.calcofi() %>% 
+
+    unsized = data.counts() %>% 
       dplyr::filter(line.station == site)  %>% 
-      dplyr::select(year, line.station, weight_JA_calcofi, T_JA_calcofi) %>% 
+      dplyr::select(Year, line.station, T_JA_calcofi) %>% 
+      dplyr::rename("Total myctophids per site" = "T_JA_calcofi")  %>% 
+      tidyr::gather("Parameter","Value", -c(Year:line.station)) %>% 
+      dplyr::select(Year, Parameter, Value,line.station) %>% 
+      dplyr::mutate(Type = "All")
+      
+    sized = data.calcofi() %>% 
+      dplyr::filter(line.station == site)  %>% 
+      dplyr::select(Year, line.station, weight_JA_calcofi, T_JA_calcofi) %>% 
       dplyr::rename("Total myctophids per site" = "T_JA_calcofi","Weight myctophids per site"="weight_JA_calcofi") %>% 
-      tidyr::gather("Parameter","Value", -c(year:line.station)) %>% 
-      ggplot(aes(x=year, y=Value)) + 
+      tidyr::gather("Parameter","Value", -c(Year:line.station)) %>% 
+      dplyr::select(Year, Parameter, Value,line.station) %>% 
+      dplyr::mutate(Type = "Sized")
+      
+    rbind(unsized, sized) %>% 
+      ggplot(aes(x=Year, y=Value, fill=Type)) + 
       #geom_hline(yintercept=(10), color="black", linetype="dashed") + 
-      geom_point(pch=21, color="black", fill="gray", size=2) +
+      geom_point(data=unsized, pch=21, color="black", size=2) +
+      geom_point(pch=21, color="black", size=2) +
       xlab("Year")+ 
-      xlim(1978, 2021)+
-      facet_grid(Parameter~line.station) + 
+      xlim(1949, 2021)+
+      facet_grid(Parameter~line.station, scales="free_y") + 
       theme_bw()
   }) 
   
-  output$seasonal.plot <- renderPlot({
-    
-    data.calcofi() %>% 
-      group_by(year, month, TowType) %>% 
-      dplyr::mutate(T_JA_calcofi = sum(Count)) %>% 
-      dplyr::ungroup() %>% 
-      dplyr::select(year, month, T_JA_calcofi, TowType) %>% 
-      unique() %>% 
-      ggplot(aes(x=as.factor(month), y=T_JA_calcofi, fill =TowType )) + 
-      geom_boxplot(color="black") + 
-      ylab("Annual myctophid catch across all sites") +
-      xlab("Month")+
-      labs(fill="Net Type")+ 
-      theme_bw()
-    
-  }) 
   
   output$num.indiv <- renderTable({
 
     data.calcofi() %>% 
       dplyr::filter(Line > 76.7) %>%
-      dplyr::select(year, line.station, weight, Count) %>% 
+      dplyr::select(Year, line.station, weight, Count) %>% 
       dplyr::summarize(Total.weight.g = as.integer(sum(weight)), 
                        Total.number.individuals = sum(Count))
   })
