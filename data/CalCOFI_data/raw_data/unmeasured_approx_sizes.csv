@@ -1,0 +1,227 @@
+Cruise,Ship,OrderOcc,TowType,TowNumber,SpeciesCode,Count,Lat,Lon,Line,Station,SpeciesName,Year,size_approx,est_size,notes
+5307,CR,55,C1,1,292,1,33.40833,-117.916667,90,30,Stenobrachius leucopsarus,1953,large,65,
+7511,JD,12,C1,1,292,1,33.195,-117.566667,91.5,28,Stenobrachius leucopsarus,1975,larval,20,
+7511,JD,38,C1,1,292,2,33.81667,-118.666667,86.7,36,Stenobrachius leucopsarus,1975,larval,20,
+7511,JD,63,C1,1,292,1,33.56667,-120.75,83.3,60,Stenobrachius leucopsarus,1975,larval,20,
+7511,JD,93,C1,1,292,2,33.47,-122.528333,80,80,Stenobrachius leucopsarus,1975,larval,20,
+7512,JD,3,C1,1,292,3,32.91167,-117.363333,93.3,28,Stenobrachius leucopsarus,1975,larval,20,
+7512,JD,16,C1,1,292,1,33.34167,-118.055,90,32,Stenobrachius leucopsarus,1975,larval,20,
+7512,JD,27,C1,1,292,2,33.80833,-118.666667,86.7,36,Stenobrachius leucopsarus,1975,larval,20,
+7512,JD,32,C1,1,292,1,33,-120.358333,86.7,60,Stenobrachius leucopsarus,1975,larval,20,
+7512,JD,34,C1,1,292,1,33.73333,-120.408333,83.3,55,Stenobrachius leucopsarus,1975,larval,20,
+8012,NH,5,CB,1,292,1,33.73833,-120.396667,83.3,55,Stenobrachius leucopsarus,1980,larval,20,
+8012,JD,22,CB,1,292,1,32.84667,-117.531667,93.3,30,Stenobrachius leucopsarus,1980,larval,20,
+8012,JD,24,CB,1,292,1,32.51333,-118.213333,93.3,40,Stenobrachius leucopsarus,1980,larval,20,
+8104,JD,448,CB,1,292,1,33.81667,-121.843333,80,70,Stenobrachius leucopsarus,1981,larval,20,
+8105,NH,19,CB,1,292,1,34.23333,-119.406667,83.3,40.6,Stenobrachius leucopsarus,1981,larval,20,
+8401,NH,8,CB,1,292,1,32.65,-119.485,90,53,Stenobrachius leucopsarus,1984,larval,20,
+8401,JD,16,CB,1,292,1,33.57833,-120.755,83.3,60,Stenobrachius leucopsarus,1984,larval,20,
+8410,JD,7,CB,1,292,1,32.99,-120.35,86.7,60,Stenobrachius leucopsarus,1984,larval,20,
+7501,JD,65,C1,1,292,1,32.91167,-117.366667,93.3,28,Stenobrachius leucopsarus,1975,medium,50,
+7804,JD,72,CB,1,292,1,34.15,-121.166667,80,60,Stenobrachius leucopsarus,1978,medium,50,
+8105,NH,22,CB,1,292,2,34.31167,-120.8,80,55,Stenobrachius leucopsarus,1981,medium,50,
+8404,NH,19,CB,1,292,1,32.17667,-118.891667,93.3,50,Stenobrachius leucopsarus,1984,medium,50,
+4004,ES,52,C2,1,292,1,33.91667,-119.225,85,40.8,Stenobrachius leucopsarus,1940,NA,NA,Pretty sure these have been removed from the collection 
+5205,ES,3,C1,1,292,2,32.67,-117.875,93.3,35,Stenobrachius leucopsarus,1952,NA,NA,Pretty sure these have been removed from the collection 
+5206,YE,4,C1,1,292,2,33.33333,-119.658333,86.7,50,Stenobrachius leucopsarus,1952,NA,NA,Pretty sure these have been removed from the collection 
+5206,YE,22,C1,1,292,1,32.66667,-117.866667,93.3,35,Stenobrachius leucopsarus,1952,NA,NA,Pretty sure these have been removed from the collection 
+5207,SB,54,C1,1,292,1,32.28333,-122.616667,85,90,Stenobrachius leucopsarus,1952,NA,NA,Pretty sure these have been removed from the collection 
+5304,HO,2,C1,1,292,1,33.42333,-117.923333,90,30,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5305,PT,71,C1,1,292,1,33.98833,-119.923333,83.3,48,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5305,PT,75,C1,1,292,1,33.03,-120.3,86.7,60,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5306,PT,8,C1,1,292,1,31.76667,-119.3,93.3,60,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5307,CR,56,C1,1,292,1,33.475,-117.775,90,28,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5307,CR,42,C1,1,292,1,33.95,-119.175,85,40,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5307,HO,63,C1,1,292,1,32.49167,-118.22,93.3,40,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5308,CR,58,C1,1,292,1,32.41667,-119.958333,90,60,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5309,CR,7,C1,1,292,1,33.73333,-120.408333,83.3,55,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5311,PT,18,C1,1,292,2,33.16667,-120.008333,86.7,55,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5312,CR,15,C1,1,292,1,33.49167,-119.3,86.7,45,Stenobrachius leucopsarus,1953,NA,NA,Pretty sure these have been removed from the collection 
+5406,HO,61,C1,1,292,1,33.13333,-119.995,86.7,55,Stenobrachius leucopsarus,1954,NA,NA,Pretty sure these have been removed from the collection 
+5407,CR,24,C1,1,292,1,33.48333,-122.533333,80,80,Stenobrachius leucopsarus,1954,NA,NA,Pretty sure these have been removed from the collection 
+5408,SB,37,C1,1,292,1,33.32,-120.591667,85,60,Stenobrachius leucopsarus,1954,NA,NA,Pretty sure these have been removed from the collection 
+5408,SB,38,C1,1,292,1,33.45,-120.266667,85,55,Stenobrachius leucopsarus,1954,NA,NA,Pretty sure these have been removed from the collection 
+5408,SB,51,C1,1,292,1,32.47167,-119.65,90,55,Stenobrachius leucopsarus,1954,NA,NA,Pretty sure these have been removed from the collection 
+5412,CR,4,C1,1,292,1,34.15,-121.15,80,60,Stenobrachius leucopsarus,1954,NA,NA,Pretty sure these have been removed from the collection 
+5506,CR,10,C1,1,292,1,32.33,-121.725,86.7,80,Stenobrachius leucopsarus,1955,NA,NA,Pretty sure these have been removed from the collection 
+5507,PT,7,C1,1,292,1,32.35833,-119.946667,90,60,Stenobrachius leucopsarus,1955,NA,NA,Pretty sure these have been removed from the collection 
+5507,PT,25,C1,1,292,1,32.69167,-117.826667,93.3,35,Stenobrachius leucopsarus,1955,NA,NA,Pretty sure these have been removed from the collection 
+5602,ST,7,C1,1,292,1,33.55833,-120.75,83.3,60,Stenobrachius leucopsarus,1956,NA,NA,Pretty sure these have been removed from the collection 
+5607,PT,1,C1,1,292,1,32.93167,-117.34,93.3,27,Stenobrachius leucopsarus,1956,NA,NA,Pretty sure these have been removed from the collection 
+5707,ST,9,C1,1,292,1,33.17667,-121.475,83.3,70,Stenobrachius leucopsarus,1957,NA,NA,Pretty sure these have been removed from the collection 
+5707,PT,11,C1,1,292,1,33.50333,-119.32,86.7,45,Stenobrachius leucopsarus,1957,NA,NA,Pretty sure these have been removed from the collection 
+5707,PT,24,C1,1,292,1,32.91333,-118.936667,90,45,Stenobrachius leucopsarus,1957,NA,NA,Pretty sure these have been removed from the collection 
+5710,PT,9,C1,1,292,1,33.56667,-120.75,83.3,60,Stenobrachius leucopsarus,1957,NA,NA,Pretty sure these have been removed from the collection 
+5802,PT,22,C1,1,292,1,33.83333,-118.641667,86.7,35,Stenobrachius leucopsarus,1958,NA,NA,Pretty sure these have been removed from the collection 
+5906,BD,18,C1,1,292,1,33.28333,-121.055,83.3,65,Stenobrachius leucopsarus,1959,NA,NA,Pretty sure these have been removed from the collection 
+5908,OR,7,C1,1,292,1,33.85,-121.9,80,70,Stenobrachius leucopsarus,1959,NA,NA,Pretty sure these have been removed from the collection 
+5910,SB,12,C1,1,292,1,32.33667,-121.708333,86.7,80,Stenobrachius leucopsarus,1959,NA,NA,Pretty sure these have been removed from the collection 
+6001,HO,1,C1,1,292,1,33.46667,-117.778333,90,28,Stenobrachius leucopsarus,1960,NA,NA,Pretty sure these have been removed from the collection 
+6010,SB,4,C1,1,292,3,33.98167,-121.503333,80,65,Stenobrachius leucopsarus,1960,NA,NA,Pretty sure these have been removed from the collection 
+6010,SB,6,C1,1,292,1,33.475,-122.558333,80,80,Stenobrachius leucopsarus,1960,NA,NA,Pretty sure these have been removed from the collection 
+6101,BD,13,C1,1,292,1,33.26667,-121.466667,83.3,70,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6104,HO,9,C1,1,292,1,34.025,-121.525,80,65,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6104,BD,27,C1,1,292,1,32.91167,-117.363333,93.3,28,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6107,BD,23,C1,1,292,1,33.83333,-118.625,86.7,35,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6107,BD,9,C1,1,292,1,33.56667,-120.75,83.3,60,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6107,HO,13,C1,1,292,1,33.48333,-122.523333,80,80,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6107,BD,34,C1,1,292,1,30.83333,-121.575,93.3,90,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6110,BD,24,C1,1,292,1,33.83333,-118.625,86.7,35,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6110,BD,10,C1,1,292,1,33.56667,-120.75,83.3,60,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6110,HO,12,C1,1,292,2,33.98333,-121.5,80,65,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6110,BD,30,C1,1,292,1,32.16667,-118.875,93.3,50,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6110,HO,48,C1,1,292,1,31.41667,-122,90,90,Stenobrachius leucopsarus,1961,NA,NA,Pretty sure these have been removed from the collection 
+6201,HO,8,C1,1,292,1,33.80833,-121.85,80,70,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6201,BD,11,C1,1,292,2,33.4,-121.1,83.3,65,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6201,BD,18,C1,1,292,1,32.84167,-117.516667,93.3,30,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6201,BD,21,C1,1,292,1,32.83,-120.716667,86.7,65,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6203,HO,7,C1,1,292,1,34.11,-121.133333,80,60,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6203,HO,8,C1,1,292,2,34,-121.466667,80,65,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6203,HO,10,C1,1,292,1,34.31,-120.8,80,55,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6203,BD,20,C1,1,292,1,32.91167,-117.363333,93.3,28,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6203,HO,49,C1,1,292,1,32.26667,-120.286667,90,65,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6207,BD,142,C1,1,292,1,33.41667,-117.891667,90,30,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6207,BD,145,C1,1,292,1,33.075,-118.591667,90,40,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6210,BD,16,C1,1,292,1,33.33333,-119.658333,86.7,50,Stenobrachius leucopsarus,1962,NA,NA,Pretty sure these have been removed from the collection 
+6301,AX,63,C1,1,292,1,33.18333,-118.383333,90,37,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6301,BD,4,C1,1,292,1,33.4,-121.1,83.3,65,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6301,BD,10,C1,1,292,1,33.73333,-120.408333,83.3,55,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6301,AX,12,C1,1,292,1,34.30833,-120.808333,80,55,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6301,AX,13,C1,1,292,1,34.13833,-121.133333,80,60,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6301,BD,18,C1,1,292,1,32.56667,-122.808333,83.3,90,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6301,BD,42,C1,1,292,1,32.91167,-117.363333,93.3,28,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6304,BD,11,C1,1,292,1,33.56667,-120.75,83.3,60,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6310,BD,9,C1,1,292,1,33.25333,-121.403333,83.3,70,Stenobrachius leucopsarus,1963,NA,NA,Pretty sure these have been removed from the collection 
+6401,AX,49,C1,1,292,1,34.29167,-121.238333,79.2,60,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6404,AX,3,C1,1,292,1,32.91667,-117.366667,93.3,28,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6404,AX,4,C1,1,292,1,32.84,-117.516667,93.3,30,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6407,AX,3,C1,1,292,2,33.50833,-120.068333,85,53,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6407,BD,10,C1,1,292,1,32.85333,-122.103333,83.3,80,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6407,BD,15,C1,1,292,1,32.81667,-120.675,86.7,65,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6407,AX,30,C1,1,292,1,34.18333,-120.25,81.5,50,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6407,AX,37,C1,1,292,1,34.15,-120.698333,80.8,55,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6407,AX,53,C1,1,292,1,34.51,-120.76,79.2,53,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6410,BD,48,C1,1,292,1,33.18333,-118.375,90,37,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6410,BD,31,C1,1,292,1,33.18,-121.483333,83.3,70,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6410,BD,32,C1,1,292,1,32.9,-122.125,83.3,80,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6410,BD,49,C1,1,292,1,32.90833,-118.925,90,45,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6410,BD,53,C1,1,292,1,32.075,-120.641667,90,70,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6410,BD,54,C1,1,292,1,31.76667,-121.333333,90,80,Stenobrachius leucopsarus,1964,NA,NA,Pretty sure these have been removed from the collection 
+6706,EB,35,C1,1,292,1,31.74167,-121.32,90,80,Stenobrachius leucopsarus,1967,NA,NA,Pretty sure these have been removed from the collection 
+6801,HO,70,C1,1,292,1,32.58333,-122.803333,83.3,90,Stenobrachius leucopsarus,1968,NA,NA,Pretty sure these have been removed from the collection 
+6806,JD,81,C1,1,292,1,33,-120.333333,86.7,60,Stenobrachius leucopsarus,1968,NA,NA,Pretty sure these have been removed from the collection 
+6806,JD,88,C1,1,292,1,32.85,-120.683333,86.7,65,Stenobrachius leucopsarus,1968,NA,NA,Pretty sure these have been removed from the collection 
+6901,JD,7,C1,1,292,1,31.95833,-119.175,93.3,55,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6901,JD,40,C1,1,292,1,33.75,-120.366667,83.3,55,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6901,JD,48,C1,1,292,1,33.98333,-121.5,80,65,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6902,AX,9,C1,1,292,1,33.73667,-120.406667,83.3,55,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6902,JD,14,C1,1,292,1,33,-120.358333,86.7,60,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6902,AX,18,C1,1,292,1,34.31333,-120.803333,80,55,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6904,JD,9,C1,1,292,1,32.84167,-117.516667,93.3,30,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6904,JD,37,C1,1,292,1,32.65833,-121.033333,86.7,70,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6904,JD,52,C1,1,292,1,34.25,-119.983333,82,47,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6905,JD,19,C1,1,292,1,33.34167,-118.05,90,32,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6905,JD,35,C1,1,292,1,33.73333,-120.408333,83.3,55,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6907,JD,27,C1,1,292,1,33.83333,-118.625,86.7,35,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6908,AX,76,C1,1,292,1,33.18,-118.383333,90,37,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6908,AX,52,C1,1,292,1,34.31167,-120.811667,80,55,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6908,AX,68,C1,1,292,1,32.56667,-122.791667,83.3,90,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6908,AX,80,C1,1,292,1,33.35,-118.028333,90,32,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6908,AX,85,C1,1,292,2,32.08333,-120.655,90,70,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+6909,AX,3,C1,1,292,2,32.84,-117.513333,93.3,30,Stenobrachius leucopsarus,1969,NA,NA,Pretty sure these have been removed from the collection 
+7201,AX,17,C1,1,292,1,32.94,-118.916667,90,45,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7201,AX,23,C1,1,292,1,33.495,-119.306667,86.7,45,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7201,AX,25,C1,1,292,1,33.165,-120.001667,86.7,55,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7201,AX,27,C1,1,292,1,32.325,-121.735,86.7,80,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7201,AX,32,C1,1,292,3,33.73,-120.4,83.3,55,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7201,AX,40,C1,1,292,1,34.145,-121.15,80,60,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7201,AX,41,C1,1,292,1,33.81667,-121.858333,80,70,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7202,AL,19,C1,1,292,1,32.16667,-118.875,93.3,50,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7203,JD,46,C1,1,292,1,33.81667,-121.883333,80,70,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7203,JD,50,C1,1,292,3,32.9,-122.133333,83.3,80,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7203,JD,51,C1,1,292,1,33.24167,-121.433333,83.3,70,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7203,JD,53,C1,1,292,1,34.31667,-120.8,80,55,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7203,JD,56,C1,1,292,2,34.28333,-119.983333,82,47,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7207,AX,2,C1,1,292,1,34.35167,-120.601667,80,52,Stenobrachius leucopsarus,1972,NA,NA,These may have been removed from the collection - MacGregor data goes from 1949-1972 but unclear what point in 1972 it stops
+7512,JD,26,C1,1,292,1,33.83333,-118.625,86.7,35,Stenobrachius leucopsarus,1975,NA,NA,
+7501,JD,7,C1,1,292,3,32.41667,-119.958333,90,60,Stenobrachius leucopsarus,1975,small,30,
+7501,JD,57,C1,1,292,1,33.35,-118.033333,90,32,Stenobrachius leucopsarus,1975,small,30,
+7505,JD,26,C1,1,292,2,34.15,-121.15,80,60,Stenobrachius leucopsarus,1975,small,30,
+8401,NH,4,CB,1,292,2,33.485,-117.783333,90,28,Stenobrachius leucopsarus,1984,small,30,
+7507,JD,56,C1,1,292,1,33.5,-119.316667,86.7,45,Stenobrachius leucopsarus,1975,small/medium,40,
+8904,JD,54,CB,1,292,1,34.315,-120.8,80,55,Stenobrachius leucopsarus,1989,small/medium,40,
+8410,JD,17,CB,1,301,1,33.74333,-120.406667,83.3,55,Triphoturus mexicanus,1984,large,65,
+8410,NH,19,CB,1,301,1,32.00833,-119.231667,93.3,55,Triphoturus mexicanus,1984,large,65,
+5512,ST,15,C1,1,301,1,31.74167,-121.316667,90,80,Triphoturus mexicanus,1955,larval,20,
+5602,ST,26,C1,1,301,1,32.2,-118.908333,93.3,50,Triphoturus mexicanus,1956,larval,20,
+5611,OR,17,C1,1,301,1,33.40833,-117.916667,90,30,Triphoturus mexicanus,1956,larval,20,
+5802,PT,2,C1,1,301,1,33.39667,-117.95,90,30,Triphoturus mexicanus,1958,larval,20,
+5909,OR,1,C1,1,301,1,33.475,-117.775,90,28,Triphoturus mexicanus,1959,larval,20,
+5911,PT,14,C1,1,301,1,33.61333,-120.666667,83.3,60,Triphoturus mexicanus,1959,larval,20,
+5911,PT,32,C1,1,301,2,31.85,-119.516667,93.3,60,Triphoturus mexicanus,1959,larval,20,
+5911,PT,36,C1,1,301,2,32.50833,-118.211667,93.3,40,Triphoturus mexicanus,1959,larval,20,
+5911,PT,37,C1,1,301,1,32.675,-117.875,93.3,35,Triphoturus mexicanus,1959,larval,20,
+6001,OR,1,C1,1,301,1,32.91,-117.366667,93.3,28,Triphoturus mexicanus,1960,larval,20,
+6101,BD,34,C1,1,301,1,32.84167,-117.525,93.3,30,Triphoturus mexicanus,1961,larval,20,
+6310,BD,53,C1,1,301,1,32.14667,-118.908333,93.3,50,Triphoturus mexicanus,1963,larval,20,
+6401,BD,28,C1,1,301,2,32.675,-117.858333,93.3,35,Triphoturus mexicanus,1964,larval,20,
+6410,BD,48,C1,1,301,2,33.18333,-118.375,90,37,Triphoturus mexicanus,1964,larval,20,
+6901,JD,6,C1,1,301,1,32.16667,-118.875,93.3,50,Triphoturus mexicanus,1969,larval,20,
+6901,JD,11,C1,1,301,1,32.3,-118.616667,93.3,45,Triphoturus mexicanus,1969,larval,20,
+6901,JD,27,C1,1,301,1,32.65,-119.475,90,53,Triphoturus mexicanus,1969,larval,20,
+6901,JD,36,C1,1,301,1,31.98333,-122.4,86.7,90,Triphoturus mexicanus,1969,larval,20,
+6901,JD,47,C1,1,301,1,34.15,-121.15,80,60,Triphoturus mexicanus,1969,larval,20,
+6902,JD,4,C1,1,301,1,33.5,-119.316667,86.7,45,Triphoturus mexicanus,1969,larval,20,
+6902,JD,13,C1,1,301,1,32.04167,-120.641667,90,70,Triphoturus mexicanus,1969,larval,20,
+6902,AX,18,C1,1,301,1,34.31333,-120.803333,80,55,Triphoturus mexicanus,1969,larval,20,
+6902,JD,31,C1,1,301,1,32.5,-118.191667,93.3,40,Triphoturus mexicanus,1969,larval,20,
+6908,AX,89,C1,1,301,1,32.17,-118.875,93.3,50,Triphoturus mexicanus,1969,larval,20,
+6908,AX,93,C1,1,301,1,31.83333,-119.566667,93.3,60,Triphoturus mexicanus,1969,larval,20,
+7201,AX,16,C1,1,301,1,32.65,-119.485,90,53,Triphoturus mexicanus,1972,larval,20,
+7203,JD,68,C1,1,301,1,33.66167,-118.983333,86.7,40,Triphoturus mexicanus,1972,larval,20,
+8012,NH,10,CB,1,301,1,33.15,-123.221667,80,90,Triphoturus mexicanus,1980,larval,20,
+8012,JD,16,CB,1,301,1,32.91833,-118.935,90,45,Triphoturus mexicanus,1980,larval,20,
+8012,JD,21,CB,1,301,4,32.91333,-117.39,93.3,28,Triphoturus mexicanus,1980,larval,20,
+8012,JD,22,CB,1,301,2,32.84667,-117.531667,93.3,30,Triphoturus mexicanus,1980,larval,20,
+8012,JD,29,CB,1,301,1,31.51333,-120.245,93.3,70,Triphoturus mexicanus,1980,larval,20,
+8105,NH,17,CB,1,301,1,33.87833,-120.13,83.3,51,Triphoturus mexicanus,1981,larval,20,
+8105,NH,18,CB,1,301,1,34.17833,-119.508333,83.3,42,Triphoturus mexicanus,1981,larval,20,
+8401,NH,3,CB,1,301,1,33.42667,-117.9,90,30,Triphoturus mexicanus,1984,larval,20,
+8401,JD,4,CB,1,301,3,33.48833,-119.32,86.7,45,Triphoturus mexicanus,1984,larval,20,
+8401,NH,8,CB,1,301,1,32.65,-119.485,90,53,Triphoturus mexicanus,1984,larval,20,
+8401,NH,17,CB,1,301,1,31.48667,-120.251667,93.3,70,Triphoturus mexicanus,1984,larval,20,
+8401,NH,26,CB,1,301,2,32.87,-117.453333,93.3,29,Triphoturus mexicanus,1984,larval,20,
+8404,NH,2,CB,1,301,1,33.415,-117.908333,90,30,Triphoturus mexicanus,1984,larval,20,
+8404,NH,3,CB,1,301,1,33.25167,-118.253333,90,35,Triphoturus mexicanus,1984,larval,20,
+8410,NH,6,CB,1,301,1,33.185,-118.386667,90,37,Triphoturus mexicanus,1984,larval,20,
+8410,NH,16,CB,1,301,1,31.18333,-120.921667,93.3,80,Triphoturus mexicanus,1984,larval,20,
+9802,JD,9,CB,1,301,1,31.84667,-119.571667,93.3,60,Triphoturus mexicanus,1998,larval,20,
+8105,JD,20,CB,1,301,2,32.34667,-118.555,93.3,45,Triphoturus mexicanus,1981,medium,50,
+8410,NH,20,CB,1,301,1,32.18167,-118.893333,93.3,50,Triphoturus mexicanus,1984,medium,50,
+6404,AX,4,C1,1,301,1,32.84,-117.516667,93.3,30,Triphoturus mexicanus,1964,medium/large,55,
+5307,CR,55,C1,1,301,1,33.40833,-117.916667,90,30,Triphoturus mexicanus,1953,NA,NA,
+5401,HO,33,C1,1,301,1,32.06333,-120.658333,90,70,Triphoturus mexicanus,1954,NA,NA,
+5805,PT,26,C1,1,301,1,32.83333,-117.525,93.3,30,Triphoturus mexicanus,1958,NA,NA,
+5907,PT,73,C1,1,301,1,33.34167,-118.033333,90,32,Triphoturus mexicanus,1959,NA,NA,cruise missing
+5908,OR,50,C1,1,301,1,32.5,-118.208333,93.3,40,Triphoturus mexicanus,1959,NA,NA,cruise missing
+6201,HO,52,C1,1,301,1,33.34667,-118.055,90,32,Triphoturus mexicanus,1962,NA,NA,
+6301,AX,63,C1,1,301,1,33.18333,-118.383333,90,37,Triphoturus mexicanus,1963,NA,NA,
+6301,BD,42,C1,1,301,1,32.91167,-117.363333,93.3,28,Triphoturus mexicanus,1963,NA,NA,
+6401,AX,7,C1,1,301,1,33.635,-120.576667,83.3,57.6,Triphoturus mexicanus,1964,NA,NA,
+6401,BD,36,C1,1,301,1,31.11667,-120.933333,93.3,80,Triphoturus mexicanus,1964,NA,NA,
+6905,JD,1,C1,1,301,2,32.84167,-117.516667,93.3,30,Triphoturus mexicanus,1969,NA,NA,
+6907,JD,4,C1,1,301,1,32.33,-118.513333,93.3,45,Triphoturus mexicanus,1969,NA,NA,
+9709,NH,9,CB,1,301,1,31.84667,-119.568333,93.3,60,Triphoturus mexicanus,1997,NA,NA,
+5110,PT,5,C1,1,301,2,33.56333,-120.74,83.3,60,Triphoturus mexicanus,1951,small,30,
+5312,CR,15,C1,1,301,1,33.49167,-119.3,86.7,45,Triphoturus mexicanus,1953,small,30,
+5801,PT,43,C1,1,301,1,32.83333,-117.55,93.3,30,Triphoturus mexicanus,1958,small,30,
+5902,OR,15,C1,1,301,1,33.81667,-121.75,80,70,Triphoturus mexicanus,1959,small,30,
+6404,AX,7,C1,1,301,1,32.33333,-118.55,93.3,45,Triphoturus mexicanus,1964,small,30,
+6902,AX,4,C1,1,301,1,33.57,-120.753333,83.3,60,Triphoturus mexicanus,1969,small,30,
+6904,JD,11,C1,1,301,1,30.86667,-121.583333,93.3,90,Triphoturus mexicanus,1969,small,30,
+6910,JD,93,C1,1,301,1,30.83333,-121.575,93.3,90,Triphoturus mexicanus,1969,small,30,
+6910,JD,99,C1,1,301,1,32.33333,-118.533333,93.3,45,Triphoturus mexicanus,1969,small,30,
+7501,AX,21,C1,1,301,1,31.41667,-122.033333,90,90,Triphoturus mexicanus,1975,small,30,
+8105,NH,7,CB,1,301,1,32.985,-120.353333,86.7,60,Triphoturus mexicanus,1981,small,30,
+8410,NH,15,CB,1,301,1,30.85,-121.583333,93.3,90,Triphoturus mexicanus,1984,small,30,
+9910,NH,36,CB,1,301,1,32.98833,-120.346667,86.7,60,Triphoturus mexicanus,1999,small,30,

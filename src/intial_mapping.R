@@ -61,7 +61,8 @@ ggplot() +
   geom_polygon(data=PVS, mapping=aes(x = long, y = lat), color="black", fill="red") + 
   coord_cartesian(ylim = c(31, 34.6), xlim = c(-122.0, -117.2))  + 
   geom_polygon(data=dumpsite, mapping=aes(x = long, y = lat, group=group), fill="green", color="black",alpha = 0.5) + 
-  geom_point(data=station.loc %>% dplyr::filter(Sta < 90 & Line < 95), mapping=aes(x=Lon..dec., y=Lat..dec.))+
+  #geom_point(data=station.loc %>% dplyr::filter(Sta < 90 & Line < 95), mapping=aes(x=Lon..dec., y=Lat..dec.))+
+  geom_point(data=station.loc %>% dplyr::filter(Line >= 80 & Sta < 61), mapping=aes(x=Lon..dec., y=Lat..dec.))+
   xlab("")+ylab("") 
 
 

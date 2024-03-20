@@ -12,60 +12,86 @@ UID,SpeciesName,Line Station,Date,Pool,Region,Dissection Date,Standard Length (m
 199108-JD-52-4,S. leucopsarus,83.3 55,8/3/91,1,offshore,4/6/23,59,11.3,10.2,5.8,2.5467,2.3826,Y,Y,SL10,Tray 1,A10,Fish stored in cleaned glass vial in freezer with internal label
 199110-NH-34-1,S. leucopsarus,86.7 39.5,10/4/91,2b,dumpsite,4/6/23,49.5,9.1,8.6,4.9,1.3416,1.2314,Y,Y,SL11,Tray 1,A11,Fish stored in cleaned glass vial in freezer with internal label
 199304-JD-30-1,S. leucopsarus,86.7 35,4/6/93,2b,dumpsite,4/6/23,63.8,11.6,10.6,5.9,2.5609,2.3193,Y,Y,SL12,Tray 1,A12,Fish stored in cleaned glass vial in freezer with internal label
-200204-JD-47-1,S. leucopsarus,83.3 55,4/7/02,,,6/8/23,35.7,7.3,6.3,3.5,0.5391,0.4243,Y,Y,SL13,Tray 2,A1,Fish stored in cleaned glass vial in freezer with internal label
-200204-JD-47-2,S. leucopsarus,83.3 55,4/7/02,,,6/8/23,40.4,8.2,5.8,3.7,0.8616,0.7136,Y,Y,SL14,Tray 2,A2,Fish stored in cleaned glass vial in freezer with internal label
+200204-JD-47-1,S. leucopsarus,83.3 55,4/7/02,,offshore,6/8/23,35.7,7.3,6.3,3.5,0.5391,0.4243,Y,Y,SL13,Tray 2,A1,Fish stored in cleaned glass vial in freezer with internal label
+200204-JD-47-2,S. leucopsarus,83.3 55,4/7/02,,offshore,6/8/23,40.4,8.2,5.8,3.7,0.8616,0.7136,Y,Y,SL14,Tray 2,A2,Fish stored in cleaned glass vial in freezer with internal label
 200204-JD-47-3,S. leucopsarus,83.3 55,4/7/02,3a,offshore,6/8/23,53.9,10.8,9.5,5.6,1.7541,1.5277,Y,Y,SL15,Tray 2,A3,Fish stored in cleaned glass vial in freezer with internal label
 200204-JD-47-4,S. leucopsarus,83.3 55,4/7/02,3a,offshore,6/8/23,54,10.9,9.1,5.4,1.9093,1.723,Y,Y,SL16,Tray 2,A4,Fish stored in cleaned glass vial in freezer with internal label
 200204-JD-47-5,S. leucopsarus,83.3 55,4/7/02,3a,offshore,6/8/23,59.2,11.6,9.9,5.9,2.3389,2.1589,Y,Y,SL17,Tray 2,A5,Fish stored in cleaned glass vial in freezer with internal label
 200204-JD-47-6,S. leucopsarus,83.3 55,4/7/02,6,offshore,6/8/23,71,13.1,10.5,6.9,3.9833,3.6949,Y,Y,SL18,Tray 2,A6,Fish stored in cleaned glass vial in freezer with internal label
-200207-NH-47-1,S. leucopsarus,83.3 55,7/12/02,,,,,,,,0.0438,,,Y,,,,"So tiny, no tissue taken for SI yet (might need additional tissue aside from muscle)"
-200207-NH-47-2,S. leucopsarus,83.3 55,7/12/02,,,,,,,,0.1132,,,Y,,,,"So tiny, no tissue taken for SI yet (might need additional tissue aside from muscle)"
-200207-NH-47-3,S. leucopsarus,83.3 55,7/12/02,,,6/14/23,41.4,7.7,6.9,4.4,0.7758,0.6595,Y,Y,SL19,Tray 2,A7,Fish stored in cleaned glass vial in freezer with internal label
-200207-NH-47-4,S. leucopsarus,83.3 55,7/12/02,,,6/14/23,43.1,8.5,7.5,4.2,0.8616,0.764,Y,Y,SL20,Tray 2,A8,Fish stored in cleaned glass vial in freezer with internal label
+200207-NH-47-1,S. leucopsarus,83.3 55,7/12/02,,offshore,,,,,,0.0438,,,Y,,,,"So tiny, no tissue taken for SI yet (might need additional tissue aside from muscle)"
+200207-NH-47-2,S. leucopsarus,83.3 55,7/12/02,,offshore,,,,,,0.1132,,,Y,,,,"So tiny, no tissue taken for SI yet (might need additional tissue aside from muscle)"
+200207-NH-47-3,S. leucopsarus,83.3 55,7/12/02,,offshore,6/14/23,41.4,7.7,6.9,4.4,0.7758,0.6595,Y,Y,SL19,Tray 2,A7,Fish stored in cleaned glass vial in freezer with internal label
+200207-NH-47-4,S. leucopsarus,83.3 55,7/12/02,,offshore,6/14/23,43.1,8.5,7.5,4.2,0.8616,0.764,Y,Y,SL20,Tray 2,A8,Fish stored in cleaned glass vial in freezer with internal label
 200207-NH-47-5,S. leucopsarus,83.3 55,7/12/02,3b,offshore,6/14/23,52.3,9.8,8.4,5.4,1.5843,1.4687,Y,Y,SL21,Tray 2,A9,Fish stored in cleaned glass vial in freezer with internal label
-200302-JD-47-1,S. leucopsarus,83.3 55,2/9/03,,,6/14/23,34.4,6.5,6,3.9,0.4601,0.4048,Y,Y,SL22,Tray 2,A10,Fish stored in cleaned glass vial in freezer with internal label
+200302-JD-47-1,S. leucopsarus,83.3 55,2/9/03,,offshore,6/14/23,34.4,6.5,6,3.9,0.4601,0.4048,Y,Y,SL22,Tray 2,A10,Fish stored in cleaned glass vial in freezer with internal label
 200304-RR-48-1,S. leucopsarus,83.3 55,4/15/03,3b,offshore,6/14/23,53.3,9.9,9.1,5.6,1.7779,1.658,Y,Y,SL23,Tray 2,A11,Fish stored in cleaned glass vial in freezer with internal label
 200304-RR-48-2,S. leucopsarus,83.3 55,4/15/03,3b,offshore,6/14/23,57.5,11.2,9.5,6,2.3368,2.1778,Y,Y,SL24,Tray 2,A12,Fish stored in cleaned glass vial in freezer with internal label
 200404-NH-43-1,S. leucopsarus,83.3 55,4/2/04,6,offshore,6/14/23,64.6,12.4,10.8,7.1,3.1785,2.9829,Y,Y,SL25,Tray 2,A13,Fish stored in cleaned glass vial in freezer with internal label
-200411-RR-49-1,S. leucopsarus,83.3 55,11/13/04,,,6/14/23,28.1,4.2,3.6,2.9,0.2312,0.192,Y,Y,SL26,Tray 2,A14,Fish stored in cleaned glass vial in freezer with internal label
+200411-RR-49-1,S. leucopsarus,83.3 55,11/13/04,,offshore,6/14/23,28.1,4.2,3.6,2.9,0.2312,0.192,Y,Y,SL26,Tray 2,A14,Fish stored in cleaned glass vial in freezer with internal label
 201203-SH-32-1,S. leucopsarus,86.7 55,3/30/12,4,offshore,7/3/23,58.6,10.9,10.2,7.2,2.1267,1.922,Y,Y,SL27,Tray 2,A15,Fish stored in cleaned glass vial in freezer with internal label
 201207-OS-28-1,S. leucopsarus,90 35,7/16/12,5,dumpsite,7/3/23,61.5,12.1,10.7,6.1,2.9749,2.777,Y,Y,SL28,Tray 2,B1,Fish stored in cleaned glass vial in freezer with internal label
 201301-SH-26-1,S. leucopsarus,90 35,1/16/13,5,dumpsite,7/3/23,73.7,13.9,12.9,8.2,5.3558,4.9813,Y,Y,SL29,Tray 2,B2,Female with a bunch of eggs - stored in cleaned glass vial in freezer with internal label
 201304-SH-17-1,S. leucopsarus,86.7 35,4/10/13,5,dumpsite,7/3/23,76,14.5,13.1,8.5,5.3422,5.1919,Y,Y,SL30,Tray 2,B3,Fish stored in cleaned glass vial in freezer with internal label
 201307-NH-26-1,S. leucopsarus,86.7 55,7/11/13,4,offshore,7/3/23,66.3,13.3,12.1,6.3,3.9382,3.7434,Y,Y,SL31,Tray 2,B4,Fish stored in cleaned glass vial in freezer with internal label
 201307-NH-27-1,S. leucopsarus,86.7 60,7/12/13,4,offshore,7/3/23,67.4,12.5,10.7,6.5,3.6512,3.4118,Y,Y,SL32,Tray 2,B5,Fish stored in cleaned glass vial in freezer with internal label
-200106-JD-32-1,,87.9 36.4 (net 3),,7,dumpsite,7/13/23,56.5,11.3,9.3,5.4,2.1983,2.0468,Y,Y,SL33,Tray 2,B6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-2,,87.9 36.4 (net 3),,7,dumpsite,7/13/23,54.5,11.2,9.4,4.6,1.8762,1.6436,Y,Y,SL34,Tray 2,B7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-3,,87.9 36.4 (net 3),,7,dumpsite,7/13/23,46.9,9.7,8.9,4,1.1601,1.0162,Y,Y,SL35,Tray 2,B8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-4,,87.9 36.4 (net 3),,7,dumpsite,7/13/23,50.1,11,9.1,4.3,1.6712,1.5529,Y,Y,SL36,Tray 2,B9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-5,,87.9 36.4 (net 3),,7,dumpsite,7/18/23,39.4,8.3,7.2,3.6,0.7901,0.6698,Y,Y,SL37,Tray 2,B10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-6,,87.9 36.4 (net 3),,7,dumpsite,7/18/23,49.2,9.7,9.1,4,1.132,0.9922,Y,Y,SL38,Tray 2,B11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-33-1,,88.9 33.8 (net 4),,9,dumpsite,7/18/23,57.4,11.3,10.7,4.4,2.069,1.9161,Y,Y,SL39,Tray 2,B12,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-2 ,,88.9 33.8 (net 4),,9,dumpsite,7/18/23,53.9,10.7,9.2,4.2,1.8935,1.7159,Y,Y,SL40,Tray 2,B13,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-3,,88.9 33.8 (net 4),,9,dumpsite,7/18/23,53.3,11,10,4.7,1.7674,1.6685,Y,Y,SL41,Tray 2,B14,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-4,,88.9 33.8 (net 4),,9,dumpsite,7/18/23,48,10.1,9.3,4.1,1.3997,1.2077,Y,Y,SL42,Tray 2,B15,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-5,,88.9 33.8 (net 4),,9,dumpsite,7/18/23,49.2,9.6,8.7,4.5,1.4392,1.3273,Y,Y,SL43,Tray 2,C1,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-6 ,,88.9 33.8 (net 4),,10,dumpsite,7/18/23,45.3,9.4,8.3,3.9,1.1146,1.0129,Y,Y,SL44,Tray 2,C2,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-7 ,,88.9 33.8 (net 4),,10,dumpsite,7/18/23,47.6,9.4,8.2,4.4,1.1989,1.0825,Y,Y,SL45,Tray 2,C3,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-8 ,,88.9 33.8 (net 4),,10,dumpsite,7/18/23,47,9.5,8.5,4.3,1.1935,1.0994,Y,Y,SL46,Tray 2,C4,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-9,,88.9 33.8 (net 4),,10,dumpsite,7/18/23,47.7,9.3,8.3,4,1.1931,1.0844,Y,Y,SL47,Tray 2,C5,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-33-10 ,,88.9 33.8 (net 4),,10,dumpsite,7/18/23,46.4,9.2,8.3,4.3,1.1412,1.0451,Y,Y,SL48,Tray 2,C6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
-200106-JD-9-1,,89.6 40.2 (net 4),,11,dumpsite,7/21/23,58.1,10.6,10,4.8,2.4146,2.2324,Y,Y,SL49,Tray 2,C7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-2,,89.6 40.2 (net 4),,11,dumpsite,7/21/23,57,10.8,9.9,4.6,2.1876,1.9638,Y,Y,SL50,Tray 2,C8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-3,,89.6 40.2 (net 4),,11,dumpsite,7/21/23,58.5,10.8,10.4,4.3,2.2269,2.0196,Y,Y,SL51,Tray 2,C9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-4,,89.6 40.2 (net 4),,12,dumpsite,7/21/23,59.2,10.5,9.6,5,2.3101,2.1112,Y,Y,SL52,Tray 2,C10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-5,,89.6 40.2 (net 4),,12,dumpsite,7/21/23,59,11.4,11,4.9,2.3627,2.1983,Y,Y,SL53,Tray 2,C11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-7,,87.9 36.4 (net 4),,7,dumpsite,9/8/23,55.8,11.1,10.4,5.3,2.5115,2.2505,Y,Y,SL59,Tray 3,A6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-8,,87.9 36.4 (net 4),,8,dumpsite,9/8/23,63.6,11.6,10.8,5.1,2.9666,2.7357,Y,Y,SL60,Tray 3,A7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-9,,87.9 36.4 (net 4),,8,dumpsite,9/8/23,61.5,11.3,10.5,5.3,2.6497,2.3976,Y,Y,SL61,Tray 3,A8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-10,,87.9 36.4 (net 4),,8,dumpsite,9/8/23,60.1,11.6,11.2,5.4,2.5948,2.3936,Y,Y,SL62,Tray 3,A9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-32-11,,87.9 36.4 (net 4),,8,dumpsite,9/8/23,60.7,11.4,10.8,5,2.458,2.2015,Y,Y,SL63,Tray 3,A10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-33-11,,88.9 33.8 (net 4),,10,dumpsite,9/8/23,45,8.8,8,3.8,1.0085,0.903,Y,Y,SL64,Tray 3,A11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-33-12,,88.9 33.8 (net 4),,10,dumpsite,9/8/23,47.7,8.9,8.6,3.7,1.1331,1.0083,Y,Y,SL65,Tray 3,A12,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-33-13,,88.9 33.8 (net 4),,10,dumpsite,9/8/23,46.9,9.2,8.2,3.7,1.0683,0.9808,Y,Y,SL66,Tray 3,A13,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-33-14,,88.9 33.8 (net 4),,10,dumpsite,9/8/23,41.2,7.8,6.8,3.2,0.7389,0.6576,Y,Y,SL67,Tray 3,A14,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-6,,89.6 40.2 (net 4),,11,dumpsite,9/8/23,58.4,11.8,10.2,4.7,2.2537,1.9432,Y,Y,SL54,Tray 3,A1,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-7,,89.6 40.2 (net 4),,11,dumpsite,9/8/23,58.8,10.8,10.9,4.6,2.0913,1.7994,Y,Y,SL55,Tray 3,A2,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-8,,89.6 40.2 (net 4),,11,dumpsite,9/8/23,58.9,11.7,10.9,5,2.2643,2.1627,Y,Y,SL56,Tray 3,A3,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-9,,89.6 40.2 (net 4),,12,dumpsite,9/8/23,60,12,10.9,5.3,2.485,2.2731,Y,Y,SL57,Tray 3,A4,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
-200106-JD-9-10,,89.6 40.2 (net 4),,12,dumpsite,9/8/23,76.8,14.4,14,9.9,4.7724,4.2613,Y,Y,SL58,Tray 3,A5,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-1,S. leucopsarus,87.9 36.4 (net 3),6/1/01,7,dumpsite,7/13/23,56.5,11.3,9.3,5.4,2.1983,2.0468,Y,Y,SL33,Tray 2,B6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-2,S. leucopsarus,87.9 36.4 (net 3),6/1/01,7,dumpsite,7/13/23,54.5,11.2,9.4,4.6,1.8762,1.6436,Y,Y,SL34,Tray 2,B7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-3,S. leucopsarus,87.9 36.4 (net 3),6/1/01,7,dumpsite,7/13/23,46.9,9.7,8.9,4,1.1601,1.0162,Y,Y,SL35,Tray 2,B8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-4,S. leucopsarus,87.9 36.4 (net 3),6/1/01,7,dumpsite,7/13/23,50.1,11,9.1,4.3,1.6712,1.5529,Y,Y,SL36,Tray 2,B9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-5,S. leucopsarus,87.9 36.4 (net 3),6/1/01,7,dumpsite,7/18/23,39.4,8.3,7.2,3.6,0.7901,0.6698,Y,Y,SL37,Tray 2,B10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-6,S. leucopsarus,87.9 36.4 (net 3),6/1/01,7,dumpsite,7/18/23,49.2,9.7,9.1,4,1.132,0.9922,Y,Y,SL38,Tray 2,B11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-33-1,S. leucopsarus,88.9 33.8 (net 4),6/1/01,9,dumpsite,7/18/23,57.4,11.3,10.7,4.4,2.069,1.9161,Y,Y,SL39,Tray 2,B12,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-2 ,S. leucopsarus,88.9 33.8 (net 4),6/1/01,9,dumpsite,7/18/23,53.9,10.7,9.2,4.2,1.8935,1.7159,Y,Y,SL40,Tray 2,B13,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-3,S. leucopsarus,88.9 33.8 (net 4),6/1/01,9,dumpsite,7/18/23,53.3,11,10,4.7,1.7674,1.6685,Y,Y,SL41,Tray 2,B14,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-4,S. leucopsarus,88.9 33.8 (net 4),6/1/01,9,dumpsite,7/18/23,48,10.1,9.3,4.1,1.3997,1.2077,Y,Y,SL42,Tray 2,B15,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-5,S. leucopsarus,88.9 33.8 (net 4),6/1/01,9,dumpsite,7/18/23,49.2,9.6,8.7,4.5,1.4392,1.3273,Y,Y,SL43,Tray 2,C1,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-6 ,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,7/18/23,45.3,9.4,8.3,3.9,1.1146,1.0129,Y,Y,SL44,Tray 2,C2,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-7 ,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,7/18/23,47.6,9.4,8.2,4.4,1.1989,1.0825,Y,Y,SL45,Tray 2,C3,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-8 ,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,7/18/23,47,9.5,8.5,4.3,1.1935,1.0994,Y,Y,SL46,Tray 2,C4,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-9,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,7/18/23,47.7,9.3,8.3,4,1.1931,1.0844,Y,Y,SL47,Tray 2,C5,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-33-10 ,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,7/18/23,46.4,9.2,8.3,4.3,1.1412,1.0451,Y,Y,SL48,Tray 2,C6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 3
+200106-JD-9-1,S. leucopsarus,89.6 40.2 (net 4),6/1/01,11,dumpsite,7/21/23,58.1,10.6,10,4.8,2.4146,2.2324,Y,Y,SL49,Tray 2,C7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-2,S. leucopsarus,89.6 40.2 (net 4),6/1/01,11,dumpsite,7/21/23,57,10.8,9.9,4.6,2.1876,1.9638,Y,Y,SL50,Tray 2,C8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-3,S. leucopsarus,89.6 40.2 (net 4),6/1/01,11,dumpsite,7/21/23,58.5,10.8,10.4,4.3,2.2269,2.0196,Y,Y,SL51,Tray 2,C9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-4,S. leucopsarus,89.6 40.2 (net 4),6/1/01,12,dumpsite,7/21/23,59.2,10.5,9.6,5,2.3101,2.1112,Y,Y,SL52,Tray 2,C10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-5,S. leucopsarus,89.6 40.2 (net 4),6/1/01,12,dumpsite,7/21/23,59,11.4,11,4.9,2.3627,2.1983,Y,Y,SL53,Tray 2,C11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-7,S. leucopsarus,87.9 36.4 (net 4),6/1/01,7,dumpsite,9/8/23,55.8,11.1,10.4,5.3,2.5115,2.2505,Y,Y,SL59,Tray 3,A6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-8,S. leucopsarus,87.9 36.4 (net 4),6/1/01,8,dumpsite,9/8/23,63.6,11.6,10.8,5.1,2.9666,2.7357,Y,Y,SL60,Tray 3,A7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-9,S. leucopsarus,87.9 36.4 (net 4),6/1/01,8,dumpsite,9/8/23,61.5,11.3,10.5,5.3,2.6497,2.3976,Y,Y,SL61,Tray 3,A8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-10,S. leucopsarus,87.9 36.4 (net 4),6/1/01,8,dumpsite,9/8/23,60.1,11.6,11.2,5.4,2.5948,2.3936,Y,Y,SL62,Tray 3,A9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-32-11,S. leucopsarus,87.9 36.4 (net 4),6/1/01,8,dumpsite,9/8/23,60.7,11.4,10.8,5,2.458,2.2015,Y,Y,SL63,Tray 3,A10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-33-11,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,9/8/23,45,8.8,8,3.8,1.0085,0.903,Y,Y,SL64,Tray 3,A11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-33-12,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,9/8/23,47.7,8.9,8.6,3.7,1.1331,1.0083,Y,Y,SL65,Tray 3,A12,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-33-13,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,9/8/23,46.9,9.2,8.2,3.7,1.0683,0.9808,Y,Y,SL66,Tray 3,A13,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-33-14,S. leucopsarus,88.9 33.8 (net 4),6/1/01,10,dumpsite,9/8/23,41.2,7.8,6.8,3.2,0.7389,0.6576,Y,Y,SL67,Tray 3,A14,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-6,S. leucopsarus,89.6 40.2 (net 4),6/1/01,11,dumpsite,9/8/23,58.4,11.8,10.2,4.7,2.2537,1.9432,Y,Y,SL54,Tray 3,A1,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-7,S. leucopsarus,89.6 40.2 (net 4),6/1/01,11,dumpsite,9/8/23,58.8,10.8,10.9,4.6,2.0913,1.7994,Y,Y,SL55,Tray 3,A2,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-8,S. leucopsarus,89.6 40.2 (net 4),6/1/01,11,dumpsite,9/8/23,58.9,11.7,10.9,5,2.2643,2.1627,Y,Y,SL56,Tray 3,A3,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-9,S. leucopsarus,89.6 40.2 (net 4),6/1/01,12,dumpsite,9/8/23,60,12,10.9,5.3,2.485,2.2731,Y,Y,SL57,Tray 3,A4,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-10,S. leucopsarus,89.6 40.2 (net 4),6/1/01,12,dumpsite,9/8/23,76.8,14.4,14,9.9,4.7724,4.2613,Y,Y,SL58,Tray 3,A5,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-11,T. mexicanus,89.6 40.2 (net 4),6/1/01,13,dumpsite,11/21/23,58.33,11.31,10.77,5.08,1.9621,1.7671,Y,Y,TM1,Tray 4,A1,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-12,T. mexicanus,89.6 40.2 (net 4),6/1/01,13,dumpsite,11/21/23,59.36,10.76,9.38,4.57,1.6788,1.5437,Y,Y,TM2,Tray 4,A2,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-13,T. mexicanus,89.6 40.2 (net 4),6/1/01,13,dumpsite,11/21/23,51.69,9.1,8.06,4.95,1.2637,1.1165,Y,Y,TM3,Tray 4,A3,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-14,T. mexicanus,89.6 40.2 (net 4),6/1/01,13,dumpsite,11/21/23,46.93,8.4,7.65,4.07,0.905,0.824,Y,Y,TM4,Tray 4,A4,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-15,T. mexicanus,89.6 40.2 (net 4),6/1/01,13,dumpsite,11/21/23,48.39,9.18,8.01,3.74,0.9757,0.8808,Y,Y,TM5,Tray 4,A5,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-16,T. mexicanus,89.6 40.2 (net 4),6/1/01,13,dumpsite,11/21/23,41.84,7.98,7.04,3.63,0.5948,0.4906,Y,Y,TM6,Tray 4,A6,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 4
+200106-JD-9-17,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,48.95,9.67,8.41,4.22,1.0243,0.924,Y,Y,TM7,Tray 4,A7,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+200106-JD-9-18,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,46.31,8.53,7.81,3.66,0.9693,0.874,Y,Y,TM8,Tray 4,A8,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+200106-JD-9-19,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,51.92,9.66,9.08,4.3,1.4838,1.35,Y,Y,TM9,Tray 4,A9,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+200106-JD-9-20,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,43.89,8.61,7.78,4.11,0.8409,0.7245,Y,Y,TM10,Tray 4,A10,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+200106-JD-9-21,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,38.61,7.37,7.04,3.23,0.496,0.4291,Y,Y,TM11,Tray 4,A11,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+200106-JD-9-22,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,44.41,8.98,8.09,4.52,0.9712,0.8345,Y,Y,TM12,Tray 4,A12,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+200106-JD-9-23,T. mexicanus,89.6 40.2 (net 5),6/1/01,14,dumpsite,11/21/23,34.59,6.49,5.71,2.8,0.3651,0.3199,Y,Y,TM13,Tray 4,A13,Fish stored in cleaned glass vial in freezer with internal label - from MOCNESS net 5
+201604-SH-43-1,S. leucopsarus,86.7 55,4/8/16,15,offshore,12/18/23,64.88,12.58,10.53,6.14,3.1689,2.8684,Y,Y,SL69,,,Stomach in OG vial
+201604-SH-43-2,S. leucopsarus,86.7 55,4/8/16,15,offshore,12/18/23,55.34,11.29,10.8,4.91,1.9985,1.8007,Y,Y,SL70,,,Stomach in OG vial
+201607-OS-39-1,S. leucopsarus,86.7 55,7/18/16,15,offshore,12/18/23,54.13,10.74,9.96,4.76,1.6904,1.4712,Y,Y,SL68,,,Stomach in OG vial
+198901-JD-37-1,S. leucopsarus,86.7 55,1/27/89,17,offshore,12/20/23,54.42,10.29,9.52,5.53,1.7864,1.6155,Y,Y,SL71,,,Stomach in OG vial
+198904-JD-34-1,S. leucopsarus,86.7 55,4/23/89,17,offshore,12/20/23,56.62,10.88,10.33,5.51,2.2583,2.0457,Y,Y,SL72,,,Stomach in OG vial
+198904-JD-34-2,S. leucopsarus,86.7 55,4/23/89,17,offshore,12/20/23,46.16,8.93,8.16,4.05,1.0877,0.9493,Y,Y,SL73,,,Stomach in OG vial
+199510-NH-30-1,S. leucopsarus,86.7 35,10/18/95,18,dumpsite,12/20/23,67.27,12.48,11.63,6.26,3.5712,3.2757,Y,Y,SL74,,,Stomach in OG vial. Female!
+199510-NH-30-2,S. leucopsarus,86.7 35,10/18/95,18,dumpsite,12/20/23,56.27,9.93,7.56,4.96,1.9405,1.7876,Y,Y,SL75,,,Stomach in OG vial
+199510-NH-30-3,S. leucopsarus,86.7 35,10/18/95,18,dumpsite,12/20/23,53.27,9.69,8.82,4.61,1.5821,1.4371,Y,Y,SL76,,,Stomach in OG vial
+200804-JD-47-1,S. leucopsarus,83.3 70,4/4/08,19,offshore,2/15/23,65.21,12.25,11.41,5.74,3.0153,2.7553,Y,Y,SL78,,,
+200804-JD-47-2,S. leucopsarus,83.3 70,4/4/08,19,offshore,2/15/23,50.31,9,8.39,4.95,1.3621,1.2363,Y,Y,SL79,,,
+200804-JD-47-3,S. leucopsarus,83.3 70,4/4/08,19,offshore,2/15/23,52.63,9.63,9.07,5.04,1.5315,1.3327,Y,Y,SL80,,,
+200804-JD-47-4,S. leucopsarus,83.3 70,4/4/08,19,offshore,2/15/23,41.86,7.81,7.03,3.39,0.7405,0.6745,Y,Y,SL81,,,

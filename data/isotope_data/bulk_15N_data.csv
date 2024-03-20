@@ -1,0 +1,59 @@
+﻿Sample ID,d15NAir,TotalN_µg,N Comment,Tray Name,Well Id,Type of Material,Analysis,Sample Weight (mg) from Sample List,Internal ID,Analysis Number,Mass Spec
+SL64,14.77,50.26,,Myctophid1,A1,Fish muscle tissue,15N,0.613,2070767,628532,Q
+SL63,15.39,65.16,,Myctophid1,A2,Fish muscle tissue,15N,0.795,2070768,628533,Q
+SL59,15.54,121.91,,Myctophid1,A3,Fish muscle tissue,15N,1.512,2070769,628534,Q
+SL66,15.35,51.27,,Myctophid1,A4,Fish muscle tissue,15N,0.634,2070770,628535,Q
+SL67,14.64,47.67,,Myctophid1,A5,Fish muscle tissue,15N,0.557,2070771,628536,Q
+SL65,14.92,47.58,,Myctophid1,A6,Fish muscle tissue,15N,0.553,2070772,628537,Q
+SL57,15.3,107.69,,Myctophid1,A7,Fish muscle tissue,15N,1.353,2070773,628538,Q
+SL54,15.18,67.09,,Myctophid1,A8,Fish muscle tissue,15N,0.796,2070774,628539,Q
+SL62,15.47,65.88,,Myctophid1,A9,Fish muscle tissue,15N,0.744,2070775,628540,Q
+SL58,15.24,99.89,,Myctophid1,A10,Fish muscle tissue,15N,1.543,2070776,628541,Q
+SL56,14.77,100.79,,Myctophid1,A11,Fish muscle tissue,15N,1.151,2070777,628542,Q
+SL55,15.43,75.33,,Myctophid1,A12,Fish muscle tissue,15N,1.039,2070778,628543,Q
+SL61,15.74,101.38,,Myctophid1,B1,Fish muscle tissue,15N,1.239,2070779,628550,Q
+SL60,15.64,117.7,,Myctophid1,B2,Fish muscle tissue,15N,1.5,2070780,628551,Q
+SL1,15.31,102.72,,Myctophid1,B3,Fish muscle tissue,15N,N/A,2070781,628552,Q
+SL2,14.11,146.72,,Myctophid1,B4,Fish muscle tissue,15N,N/A,2070782,628553,Q
+SL3,14.65,107.69,,Myctophid1,B5,Fish muscle tissue,15N,N/A,2070783,628554,Q
+SL4,14.34,148.27,,Myctophid1,B6,Fish muscle tissue,15N,N/A,2070784,628555,Q
+SL5,14.39,181.76,,Myctophid1,B7,Fish muscle tissue,15N,N/A,2070785,628556,Q
+SL6,14.81,179.83,,Myctophid1,B8,Fish muscle tissue,15N,N/A,2070786,628557,Q
+SL7,13.29,137.48,,Myctophid1,B9,Fish muscle tissue,15N,N/A,2070787,628558,Q
+SL8,13.96,90.94,,Myctophid1,B10,Fish muscle tissue,15N,N/A,2070788,628559,Q
+SL9,13.05,27.2,,Myctophid1,B11,Fish muscle tissue,15N,N/A,2070789,628560,Q
+SL10,15.03,150.47,,Myctophid1,B12,Fish muscle tissue,15N,N/A,2070790,628561,Q
+SL11,14.86,204.91,,Myctophid1,C1,Fish muscle tissue,15N,N/A,2070791,628566,Q
+SL12,14.38,154.59,,Myctophid1,C2,Fish muscle tissue,15N,N/A,2070792,628567,Q
+SL14,13.99,19.8,Precision decreases for samples containing less than 20ugN,Myctophid1,C3,Fish muscle tissue,15N,0.254,2070793,628568,Q
+SL15,15.16,27.78,,Myctophid1,C4,Fish muscle tissue,15N,0.293,2070794,628569,Q
+SL18,14.34,9.01,Precision decreases for samples containing less than 20ugN,Myctophid1,C5,Fish muscle tissue,15N,0.131,2070795,628570,Q
+SL21,14.12,11.6,Precision decreases for samples containing less than 20ugN,Myctophid1,C6,Fish muscle tissue,15N,0.138,2070796,628571,Q
+SL22,15.83,28.17,,Myctophid1,C7,Fish muscle tissue,15N,0.297,2070797,628572,Q
+SL23,14.86,24.86,,Myctophid1,C8,Fish muscle tissue,15N,0.297,2070798,628573,Q
+SL25,15.2,20.33,,Myctophid1,C9,Fish muscle tissue,15N,0.251,2070799,628574,Q
+SL26,15.21,11.72,Precision decreases for samples containing less than 20ugN,Myctophid1,C10,Fish muscle tissue,15N,0.126,2070800,628575,Q
+SL27,14.68,26.27,,Myctophid1,C11,Fish muscle tissue,15N,0.314,2070801,628576,Q
+SL28,14.63,17.82,Precision decreases for samples containing less than 20ugN,Myctophid1,C12,Fish muscle tissue,15N,0.187,2070802,628577,Q
+SL29,15.59,22.46,,Myctophid1,D1,Fish muscle tissue,15N,0.216,2070803,628581,Q
+SL30,15.87,22.91,,Myctophid1,D2,Fish muscle tissue,15N,0.291,2070804,628582,Q
+SL31,14.95,33.81,,Myctophid1,D3,Fish muscle tissue,15N,0.394,2070805,628583,Q
+SL33,14.6,17.31,Precision decreases for samples containing less than 20ugN,Myctophid1,D4,Fish muscle tissue,15N,0.228,2070806,628584,Q
+SL34,14.74,10.74,Precision decreases for samples containing less than 20ugN,Myctophid1,D5,Fish muscle tissue,15N,0.117,2070807,628585,Q
+SL35,14.51,27.22,,Myctophid1,D6,Fish muscle tissue,15N,0.353,2070808,628586,Q
+SL36,14.52,22.31,,Myctophid1,D7,Fish muscle tissue,15N,0.228,2070809,628587,Q
+SL37,14.56,23.86,,Myctophid1,D8,Fish muscle tissue,15N,0.382,2070810,628588,Q
+SL38,14.41,19.02,Precision decreases for samples containing less than 20ugN,Myctophid1,D9,Fish muscle tissue,15N,0.217,2070811,628589,Q
+SL39,14.45,13,Precision decreases for samples containing less than 20ugN,Myctophid1,D10,Fish muscle tissue,15N,0.144,2070812,628590,Q
+SL40,15.13,17.92,Precision decreases for samples containing less than 20ugN,Myctophid1,D11,Fish muscle tissue,15N,0.201,2070813,628591,Q
+SL41,15.01,27.43,,Myctophid1,D12,Fish muscle tissue,15N,0.281,2070814,628592,Q
+SL42,13.99,9.75,Precision decreases for samples containing less than 20ugN,Myctophid1,E1,Fish muscle tissue,15N,0.146,2070815,628598,Q
+SL43,14.89,16.99,Precision decreases for samples containing less than 20ugN,Myctophid1,E2,Fish muscle tissue,15N,0.188,2070816,628599,Q
+SL44,14.63,21.88,,Myctophid1,E3,Fish muscle tissue,15N,0.264,2070817,628600,Q
+SL45,14.78,19.91,Precision decreases for samples containing less than 20ugN,Myctophid1,E4,Fish muscle tissue,15N,0.194,2070818,628601,Q
+SL46,14.9,22.53,,Myctophid1,E5,Fish muscle tissue,15N,0.277,2070819,628602,Q
+SL47,15.08,24.33,,Myctophid1,E6,Fish muscle tissue,15N,0.253,2070820,628603,Q
+SL48,14.78,22.05,,Myctophid1,E7,Fish muscle tissue,15N,0.256,2070821,628604,Q
+SL49,15.07,31.9,,Myctophid1,E8,Fish muscle tissue,15N,0.333,2070822,628605,Q
+SL50,14.76,19.26,Precision decreases for samples containing less than 20ugN,Myctophid1,E9,Fish muscle tissue,15N,0.233,2070823,628606,Q
+SL51,15.22,20.86,,Myctophid1,E10,Fish muscle tissue,15N,0.236,2070824,628607,Q

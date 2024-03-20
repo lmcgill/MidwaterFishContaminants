@@ -1,0 +1,8 @@
+﻿Cruise,Ship,OrderOcc,TowType,TowNumber,SpeciesCode,Size,Count,Lat,Lon,Line,Station,SpeciesName,Year,Month,line.station,ID_internal,Notes
+9204,JD,61,CB,1,292,65,1,33.57667,-120.755,83.3,60,Stenobrachius leucopsarus,1992,4,83.3 60,3033,No record of removal
+9904,JD,47,CB,1,292,70,1,33.745,-120.41,83.3,55,Stenobrachius leucopsarus,1999,4,83.3 55,3503,No record of removal
+9904,JD,47,CB,1,292,70.5,1,33.745,-120.41,83.3,55,Stenobrachius leucopsarus,1999,4,83.3 55,3504,No record of removal
+404,NH,30,CB,1,292,60,1,33.82333,-118.6283,86.7,35,Stenobrachius leucopsarus,2004,4,86.7 35,1689,No record of removal
+404,NH,31,CB,1,292,58,1,33.65667,-118.975,86.7,40,Stenobrachius leucopsarus,2004,4,86.7 40,1690,No record of removal
+404,NH,31,CB,1,292,59,1,33.65667,-118.975,86.7,40,Stenobrachius leucopsarus,2004,4,86.7 40,1691,No record of removal
+7805,JD,65,CB,1,292,72.5,1,33.45,-117.825,90,29,Stenobrachius leucopsarus,1978,5,90 29 ,2629,We might have to add a sample from 1983 to this one to get enough biomass. Hopefully it's actually this large though and will work alone! 
