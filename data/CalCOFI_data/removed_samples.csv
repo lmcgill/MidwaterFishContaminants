@@ -94,7 +94,9 @@ Cruise,Ship,OrderOcc,TowType,TowNumber,SpeciesCode,Size,Count,Lat,Lon,Line,Stati
 804,JD,47,CB,1,292,52.7,1,33.24333,-121.445,83.3,70,Stenobrachius leucopsarus,2008,4,83.3 70,1802,
 804,JD,47,CB,1,292,54.2,1,33.24333,-121.445,83.3,70,Stenobrachius leucopsarus,2008,4,83.3 70,1803,
 804,JD,47,CB,1,292,66,1,33.24333,-121.445,83.3,70,Stenobrachius leucopsarus,2008,4,83.3 70,1804,
-9204,JD,61,CB,1,292,65,1,33.57667,-120.755,83.3,60,Stenobrachius leucopsarus,1992,4,83.3 60,3033,
-9403,JD,46,CB,1,292,66.7,1,33.57833,-120.755,83.3,60,Stenobrachius leucopsarus,1994,3,83.3 60,3133,Not found in collection
-9904,JD,47,CB,1,292,70,1,33.745,-120.41,83.3,55,Stenobrachius leucopsarus,1999,4,83.3 55,3503,Not found in collection
-9904,JD,47,CB,1,292,70.5,1,33.745,-120.41,83.3,55,Stenobrachius leucopsarus,1999,4,83.3 55,3504,Not found in collection
+9403,JD,46,CB,1,292,66.7,1,33.57833,-120.755,83.3,60,Stenobrachius leucopsarus,1994,3,83.3 60,3133,
+9808,SP,17,CB,1,292,40.9,1,33.74333,-120.4117,83.3,55,Stenobrachius leucopsarus,1998,8,83.3 55,3408,
+9808,SP,17,CB,1,292,44.2,1,33.74333,-120.4117,83.3,55,Stenobrachius leucopsarus,1998,8,83.3 55,3409,
+9808,SP,17,CB,1,292,47.5,1,33.74333,-120.4117,83.3,55,Stenobrachius leucopsarus,1998,8,83.3 55,3410,
+9808,SP,17,CB,1,292,55.3,1,33.74333,-120.4117,83.3,55,Stenobrachius leucopsarus,1998,8,83.3 55,3411,
+9810,SP,16,CB,1,292,54,1,33.74167,-120.41,83.3,55,Stenobrachius leucopsarus,1998,10,83.3 55,3441,
